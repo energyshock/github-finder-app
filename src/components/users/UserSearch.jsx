@@ -29,7 +29,7 @@ function UserSearch() {
       <div>
         <form onSubmit={handleSubmit}>
           <div className="form-control">
-            <div class="input-group">
+            <div className="input-group">
               <input 
                 type="text" 
                 className="w-full bg-gray-200 input input-lg text-black"
