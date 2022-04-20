@@ -1,4 +1,4 @@
-const github = require('./utils/github');
+const github = require('./github');
 
 const handler = async event => {
   const login = event.queryStringParameters.q;
